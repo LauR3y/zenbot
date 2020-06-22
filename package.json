@@ -29,8 +29,8 @@
     ]
   },
   "dependencies": {
-    "@babel/core": "^7.10.2",
     "@neon-exchange/api-client-typescript": "^5.0.27",
+    "@babel/core": "^7.10.3",
     "@slack/client": "^5.0.2",
     "adamant-api": "^0.5.3",
     "async": "^3.2.0",
