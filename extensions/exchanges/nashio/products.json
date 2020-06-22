@@ -1,0 +1,338 @@
+[
+  {
+    "asset": "GUARD",
+    "currency": "NEO",
+    "min_size": "100.000000",
+    "increment": "0.1",
+    "label": "GUARD/NEO"
+  },
+  {
+    "asset": "ETH",
+    "currency": "BAT",
+    "min_size": "0.02000000",
+    "increment": "0.000001",
+    "label": "ETH/BAT"
+  },
+  {
+    "asset": "ZRX",
+    "currency": "ETH",
+    "min_size": "10.00000000",
+    "increment": "0.01",
+    "label": "ZRX/ETH"
+  },
+  {
+    "asset": "USDC",
+    "currency": "BAT",
+    "min_size": "5.0000000",
+    "increment": "0.0001",
+    "label": "USDC/BAT"
+  },
+  {
+    "asset": "GAS",
+    "currency": "ETH",
+    "min_size": "1.0000000",
+    "increment": "0.01",
+    "label": "GAS/ETH"
+  },
+  {
+    "asset": "ETH",
+    "currency": "BTC",
+    "min_size": "0.02000000000",
+    "increment": "0.000001",
+    "label": "ETH/BTC"
+  },
+  {
+    "asset": "ETH",
+    "currency": "RLC",
+    "min_size": "0.02000000",
+    "increment": "0.000001",
+    "label": "ETH/RLC"
+  },
+  {
+    "asset": "ETH",
+    "currency": "QNT",
+    "min_size": "0.02000000",
+    "increment": "0.00001",
+    "label": "ETH/QNT"
+  },
+  {
+    "asset": "ZRX",
+    "currency": "USDC",
+    "min_size": "10.00000",
+    "increment": "0.01",
+    "label": "ZRX/USDC"
+  },
+  {
+    "asset": "BTC",
+    "currency": "ANT",
+    "min_size": "0.0001000000",
+    "increment": "0.00000001",
+    "label": "BTC/ANT"
+  },
+  {
+    "asset": "ETH",
+    "currency": "GUARD",
+    "min_size": "0.02000000",
+    "increment": "0.0000001",
+    "label": "ETH/GUARD"
+  },
+  {
+    "asset": "ETH",
+    "currency": "LINK",
+    "min_size": "0.02000000",
+    "increment": "0.0000001",
+    "label": "ETH/LINK"
+  },
+  {
+    "asset": "USDC",
+    "currency": "USDT",
+    "min_size": "5.00000000",
+    "increment": "0.0001",
+    "label": "USDC/USDT"
+  },
+  {
+    "asset": "NEO",
+    "currency": "GUARD",
+    "min_size": "0.500000",
+    "increment": "0.00001",
+    "label": "NEO/GUARD"
+  },
+  {
+    "asset": "GAS",
+    "currency": "NEO",
+    "min_size": "1.00000",
+    "increment": "0.01",
+    "label": "GAS/NEO"
+  },
+  {
+    "asset": "LINK",
+    "currency": "USDC",
+    "min_size": "1.00000000",
+    "increment": "0.0001",
+    "label": "LINK/USDC"
+  },
+  {
+    "asset": "BTC",
+    "currency": "USDC",
+    "min_size": "0.000100000",
+    "increment": "0.00000001",
+    "label": "BTC/USDC"
+  },
+  {
+    "asset": "USDC",
+    "currency": "BTC",
+    "min_size": "5.000000000",
+    "increment": "0.1",
+    "label": "USDC/BTC"
+  },
+  {
+    "asset": "ANT",
+    "currency": "BTC",
+    "min_size": "5.0000000000",
+    "increment": "0.01",
+    "label": "ANT/BTC"
+  },
+  {
+    "asset": "USDC",
+    "currency": "ETH",
+    "min_size": "5.000000",
+    "increment": "0.01",
+    "label": "USDC/ETH"
+  },
+  {
+    "asset": "ETH",
+    "currency": "NEO",
+    "min_size": "0.02000000",
+    "increment": "0.00001",
+    "label": "ETH/NEO"
+  },
+  {
+    "asset": "ETH",
+    "currency": "USDC",
+    "min_size": "0.002000",
+    "increment": "0.0001",
+    "label": "ETH/USDC"
+  },
+  {
+    "asset": "BAT",
+    "currency": "NEO",
+    "min_size": "10.00000000",
+    "increment": "0.001",
+    "label": "BAT/NEO"
+  },
+  {
+    "asset": "NEO",
+    "currency": "USDC",
+    "min_size": "0.50000",
+    "increment": "0.001",
+    "label": "NEO/USDC"
+  },
+  {
+    "asset": "USDC",
+    "currency": "ZRX",
+    "min_size": "5.00000",
+    "increment": "0.001",
+    "label": "USDC/ZRX"
+  },
+  {
+    "asset": "BAT",
+    "currency": "USDC",
+    "min_size": "10.0000000",
+    "increment": "0.001",
+    "label": "BAT/USDC"
+  },
+  {
+    "asset": "GUARD",
+    "currency": "ETH",
+    "min_size": "100.00000000",
+    "increment": "0.1",
+    "label": "GUARD/ETH"
+  },
+  {
+    "asset": "RLC",
+    "currency": "ETH",
+    "min_size": "10.00000000",
+    "increment": "0.01",
+    "label": "RLC/ETH"
+  },
+  {
+    "asset": "GUARD",
+    "currency": "USDC",
+    "min_size": "100.000000",
+    "increment": "0.01",
+    "label": "GUARD/USDC"
+  },
+  {
+    "asset": "USDC",
+    "currency": "LINK",
+    "min_size": "5.00000000",
+    "increment": "0.0001",
+    "label": "USDC/LINK"
+  },
+  {
+    "asset": "USDC",
+    "currency": "NEO",
+    "min_size": "5.00000",
+    "increment": "0.01",
+    "label": "USDC/NEO"
+  },
+  {
+    "asset": "ZRX",
+    "currency": "NEO",
+    "min_size": "10.00000",
+    "increment": "0.1",
+    "label": "ZRX/NEO"
+  },
+  {
+    "asset": "BAT",
+    "currency": "ETH",
+    "min_size": "10.00000000",
+    "increment": "0.01",
+    "label": "BAT/ETH"
+  },
+  {
+    "asset": "LINK",
+    "currency": "ETH",
+    "min_size": "1.00000000",
+    "increment": "0.1",
+    "label": "LINK/ETH"
+  },
+  {
+    "asset": "NEO",
+    "currency": "ZRX",
+    "min_size": "0.50000",
+    "increment": "0.0001",
+    "label": "NEO/ZRX"
+  },
+  {
+    "asset": "NEO",
+    "currency": "ETH",
+    "min_size": "0.50000000",
+    "increment": "0.001",
+    "label": "NEO/ETH"
+  },
+  {
+    "asset": "BTC",
+    "currency": "ETH",
+    "min_size": "0.00010000000",
+    "increment": "0.00001",
+    "label": "BTC/ETH"
+  },
+  {
+    "asset": "USDC",
+    "currency": "GUARD",
+    "min_size": "5.000000",
+    "increment": "0.0001",
+    "label": "USDC/GUARD"
+  },
+  {
+    "asset": "QNT",
+    "currency": "ETH",
+    "min_size": "1.00000000",
+    "increment": "0.001",
+    "label": "QNT/ETH"
+  },
+  {
+    "asset": "USDC",
+    "currency": "QNT",
+    "min_size": "5.000000",
+    "increment": "0.001",
+    "label": "USDC/QNT"
+  },
+  {
+    "asset": "NEO",
+    "currency": "BAT",
+    "min_size": "0.50000000",
+    "increment": "0.00001",
+    "label": "NEO/BAT"
+  },
+  {
+    "asset": "USDC",
+    "currency": "GAS",
+    "min_size": "5.0000",
+    "increment": "0.01",
+    "label": "USDC/GAS"
+  },
+  {
+    "asset": "GAS",
+    "currency": "USDC",
+    "min_size": "0.1000",
+    "increment": "0.01",
+    "label": "GAS/USDC"
+  },
+  {
+    "asset": "NEO",
+    "currency": "GAS",
+    "min_size": "0.50000",
+    "increment": "0.001",
+    "label": "NEO/GAS"
+  },
+  {
+    "asset": "USDT",
+    "currency": "USDC",
+    "min_size": "5.00000000",
+    "increment": "0.0001",
+    "label": "USDT/USDC"
+  },
+  {
+    "asset": "ETH",
+    "currency": "ZRX",
+    "min_size": "0.02000000",
+    "increment": "0.000001",
+    "label": "ETH/ZRX"
+  },
+  {
+    "asset": "ETH",
+    "currency": "GAS",
+    "min_size": "0.0200000",
+    "increment": "0.00001",
+    "label": "ETH/GAS"
+  },
+  {
+    "asset": "QNT",
+    "currency": "USDC",
+    "min_size": "1.000000",
+    "increment": "0.001",
+    "label": "QNT/USDC"
+  }
+]

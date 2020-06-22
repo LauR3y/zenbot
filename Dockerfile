@@ -1,10 +1,12 @@
 FROM node:10 as builder
 ADD . /app
 WORKDIR /app
-RUN npm install -g node-gyp
-RUN npm install --unsafe
+RUN yarn install
+# RUN npm install -g node-gyp
+# RUN npm install --unsafe
 
-FROM node:10-alpine
+# FROM node:10-alpine
+FROM node:10-stretch
 
 ADD . /app
 WORKDIR /app
