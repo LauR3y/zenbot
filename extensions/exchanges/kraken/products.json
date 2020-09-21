@@ -98,6 +98,34 @@
     "label": "AUD/USD"
   },
   {
+    "asset": "BAL",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "BAL/ETH"
+  },
+  {
+    "asset": "BAL",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "BAL/EUR"
+  },
+  {
+    "asset": "BAL",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "BAL/USD"
+  },
+  {
+    "asset": "BAL",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "BAL/XBT"
+  },
+  {
     "asset": "BAT",
     "currency": "XETH",
     "min_size": "0.01",
@@ -175,6 +203,62 @@
     "label": "BCH/XBT"
   },
   {
+    "asset": "COMP",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "COMP/ETH"
+  },
+  {
+    "asset": "COMP",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "COMP/EUR"
+  },
+  {
+    "asset": "COMP",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "COMP/USD"
+  },
+  {
+    "asset": "COMP",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "COMP/XBT"
+  },
+  {
+    "asset": "CRV",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "CRV/ETH"
+  },
+  {
+    "asset": "CRV",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "CRV/EUR"
+  },
+  {
+    "asset": "CRV",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "CRV/USD"
+  },
+  {
+    "asset": "CRV",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "CRV/XBT"
+  },
+  {
     "asset": "DAI",
     "currency": "ZEUR",
     "min_size": "0.01",
@@ -215,6 +299,34 @@
     "min_size": "0.03",
     "increment": "0.01",
     "label": "DASH/XBT"
+  },
+  {
+    "asset": "DOT",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "DOT/ETH"
+  },
+  {
+    "asset": "DOT",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "DOT/EUR"
+  },
+  {
+    "asset": "DOT",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "DOT/USD"
+  },
+  {
+    "asset": "DOT",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "DOT/XBT"
   },
   {
     "asset": "EOS",
@@ -369,6 +481,90 @@
     "min_size": "0.01",
     "increment": "0.01",
     "label": "ICX/XBT"
+  },
+  {
+    "asset": "KAVA",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KAVA/ETH"
+  },
+  {
+    "asset": "KAVA",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KAVA/EUR"
+  },
+  {
+    "asset": "KAVA",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KAVA/USD"
+  },
+  {
+    "asset": "KAVA",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KAVA/XBT"
+  },
+  {
+    "asset": "KNC",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KNC/ETH"
+  },
+  {
+    "asset": "KNC",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KNC/EUR"
+  },
+  {
+    "asset": "KNC",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KNC/USD"
+  },
+  {
+    "asset": "KNC",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KNC/XBT"
+  },
+  {
+    "asset": "KSM",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KSM/ETH"
+  },
+  {
+    "asset": "KSM",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KSM/EUR"
+  },
+  {
+    "asset": "KSM",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KSM/USD"
+  },
+  {
+    "asset": "KSM",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "KSM/XBT"
   },
   {
     "asset": "LINK",
@@ -595,6 +791,34 @@
     "label": "QTUM/XBT"
   },
   {
+    "asset": "REPV2",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "REPV2/ETH"
+  },
+  {
+    "asset": "REPV2",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "REPV2/EUR"
+  },
+  {
+    "asset": "REPV2",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "REPV2/USD"
+  },
+  {
+    "asset": "REPV2",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "REPV2/XBT"
+  },
+  {
     "asset": "SC",
     "currency": "XETH",
     "min_size": "0.01",
@@ -621,6 +845,62 @@
     "min_size": "0.01",
     "increment": "0.01",
     "label": "SC/XBT"
+  },
+  {
+    "asset": "SNX",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "SNX/ETH"
+  },
+  {
+    "asset": "SNX",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "SNX/EUR"
+  },
+  {
+    "asset": "SNX",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "SNX/USD"
+  },
+  {
+    "asset": "SNX",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "SNX/XBT"
+  },
+  {
+    "asset": "STORJ",
+    "currency": "XETH",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "STORJ/ETH"
+  },
+  {
+    "asset": "STORJ",
+    "currency": "ZEUR",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "STORJ/EUR"
+  },
+  {
+    "asset": "STORJ",
+    "currency": "ZUSD",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "STORJ/USD"
+  },
+  {
+    "asset": "STORJ",
+    "currency": "XXBT",
+    "min_size": "0.01",
+    "increment": "0.01",
+    "label": "STORJ/XBT"
   },
   {
     "asset": "TRX",
