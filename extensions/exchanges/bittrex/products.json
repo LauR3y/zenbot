@@ -4326,5 +4326,69 @@
     "max_size": "1000000",
     "increment": "0.00000001",
     "label": "USDT/GST"
+  },
+  {
+    "asset": "ECELL",
+    "currency": "BTC",
+    "min_size": "85.71400000",
+    "max_size": "1000000",
+    "increment": "0.00000001",
+    "label": "BTC/ECELL"
+  },
+  {
+    "asset": "ECELL",
+    "currency": "USDT",
+    "min_size": "85.71400000",
+    "max_size": "1000000",
+    "increment": "0.00000001",
+    "label": "USDT/ECELL"
+  },
+  {
+    "asset": "BWF",
+    "currency": "BTC",
+    "min_size": "300.00000000",
+    "max_size": "1000000",
+    "increment": "0.00000001",
+    "label": "BTC/BWF"
+  },
+  {
+    "asset": "BWF",
+    "currency": "USDT",
+    "min_size": "300.00000000",
+    "max_size": "1000000",
+    "increment": "0.00000001",
+    "label": "USDT/BWF"
+  },
+  {
+    "asset": "UNI",
+    "currency": "BTC",
+    "min_size": "0.67400000",
+    "max_size": "1000000",
+    "increment": "0.00000001",
+    "label": "BTC/UNI"
+  },
+  {
+    "asset": "UNI",
+    "currency": "ETH",
+    "min_size": "0.67400000",
+    "max_size": "1000000",
+    "increment": "0.00000001",
+    "label": "ETH/UNI"
+  },
+  {
+    "asset": "UNI",
+    "currency": "USD",
+    "min_size": "0.67400000",
+    "max_size": "1000000",
+    "increment": "0.00000001",
+    "label": "USD/UNI"
+  },
+  {
+    "asset": "UNI",
+    "currency": "USDT",
+    "min_size": "0.67400000",
+    "max_size": "1000000",
+    "increment": "0.00000001",
+    "label": "USDT/UNI"
   }
 ]

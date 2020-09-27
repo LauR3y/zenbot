@@ -6790,11 +6790,11 @@
     "id": "BANDBTC",
     "asset": "BAND",
     "currency": "BTC",
-    "min_size": "1.00000000",
+    "min_size": "0.10000000",
     "max_size": "90000000.00000000",
     "min_total": "0.00010000",
     "increment": "0.00000001",
-    "asset_increment": "1.00000000",
+    "asset_increment": "0.10000000",
     "label": "BAND/BTC"
   },
   {
@@ -11570,5 +11570,181 @@
     "increment": "0.00010000",
     "asset_increment": "0.01000000",
     "label": "UNI/USDT"
+  },
+  {
+    "id": "NBSBTC",
+    "asset": "NBS",
+    "currency": "BTC",
+    "min_size": "1.00000000",
+    "max_size": "90000000.00000000",
+    "min_total": "0.00010000",
+    "increment": "0.00000001",
+    "asset_increment": "1.00000000",
+    "label": "NBS/BTC"
+  },
+  {
+    "id": "NBSUSDT",
+    "asset": "NBS",
+    "currency": "USDT",
+    "min_size": "0.10000000",
+    "max_size": "9000000.00000000",
+    "min_total": "10.00000000",
+    "increment": "0.00001000",
+    "asset_increment": "0.10000000",
+    "label": "NBS/USDT"
+  },
+  {
+    "id": "OXTBTC",
+    "asset": "OXT",
+    "currency": "BTC",
+    "min_size": "1.00000000",
+    "max_size": "90000000.00000000",
+    "min_total": "0.00010000",
+    "increment": "0.00000001",
+    "asset_increment": "1.00000000",
+    "label": "OXT/BTC"
+  },
+  {
+    "id": "OXTUSDT",
+    "asset": "OXT",
+    "currency": "USDT",
+    "min_size": "0.01000000",
+    "max_size": "900000.00000000",
+    "min_total": "10.00000000",
+    "increment": "0.00010000",
+    "asset_increment": "0.01000000",
+    "label": "OXT/USDT"
+  },
+  {
+    "id": "SUNBTC",
+    "asset": "SUN",
+    "currency": "BTC",
+    "min_size": "0.00100000",
+    "max_size": "10000000.00000000",
+    "min_total": "0.00010000",
+    "increment": "0.00000100",
+    "asset_increment": "0.00100000",
+    "label": "SUN/BTC"
+  },
+  {
+    "id": "SUNUSDT",
+    "asset": "SUN",
+    "currency": "USDT",
+    "min_size": "0.00100000",
+    "max_size": "900000.00000000",
+    "min_total": "10.00000000",
+    "increment": "0.00100000",
+    "asset_increment": "0.00100000",
+    "label": "SUN/USDT"
+  },
+  {
+    "id": "AVAXBNB",
+    "asset": "AVAX",
+    "currency": "BNB",
+    "min_size": "0.10000000",
+    "max_size": "9000000.00000000",
+    "min_total": "0.10000000",
+    "increment": "0.00001000",
+    "asset_increment": "0.10000000",
+    "label": "AVAX/BNB"
+  },
+  {
+    "id": "AVAXBTC",
+    "asset": "AVAX",
+    "currency": "BTC",
+    "min_size": "0.10000000",
+    "max_size": "90000000.00000000",
+    "min_total": "0.00010000",
+    "increment": "0.00000001",
+    "asset_increment": "0.10000000",
+    "label": "AVAX/BTC"
+  },
+  {
+    "id": "AVAXBUSD",
+    "asset": "AVAX",
+    "currency": "BUSD",
+    "min_size": "0.01000000",
+    "max_size": "900000.00000000",
+    "min_total": "10.00000000",
+    "increment": "0.00010000",
+    "asset_increment": "0.01000000",
+    "label": "AVAX/BUSD"
+  },
+  {
+    "id": "AVAXUSDT",
+    "asset": "AVAX",
+    "currency": "USDT",
+    "min_size": "0.01000000",
+    "max_size": "900000.00000000",
+    "min_total": "10.00000000",
+    "increment": "0.00010000",
+    "asset_increment": "0.01000000",
+    "label": "AVAX/USDT"
+  },
+  {
+    "id": "HNTBTC",
+    "asset": "HNT",
+    "currency": "BTC",
+    "min_size": "0.01000000",
+    "max_size": "90000000.00000000",
+    "min_total": "0.00010000",
+    "increment": "0.00000010",
+    "asset_increment": "0.01000000",
+    "label": "HNT/BTC"
+  },
+  {
+    "id": "HNTUSDT",
+    "asset": "HNT",
+    "currency": "USDT",
+    "min_size": "0.00100000",
+    "max_size": "900000.00000000",
+    "min_total": "10.00000000",
+    "increment": "0.00100000",
+    "asset_increment": "0.00100000",
+    "label": "HNT/USDT"
+  },
+  {
+    "id": "BAKEBNB",
+    "asset": "BAKE",
+    "currency": "BNB",
+    "min_size": "1.00000000",
+    "max_size": "9000000.00000000",
+    "min_total": "0.10000000",
+    "increment": "0.00000100",
+    "asset_increment": "1.00000000",
+    "label": "BAKE/BNB"
+  },
+  {
+    "id": "BURGERBNB",
+    "asset": "BURGER",
+    "currency": "BNB",
+    "min_size": "0.10000000",
+    "max_size": "9000000.00000000",
+    "min_total": "0.10000000",
+    "increment": "0.00001000",
+    "asset_increment": "0.10000000",
+    "label": "BURGER/BNB"
+  },
+  {
+    "id": "SXPBIDR",
+    "asset": "SXP",
+    "currency": "BIDR",
+    "min_size": "0.01000000",
+    "max_size": "1000000.00000000",
+    "min_total": "20000.00",
+    "increment": "1.00",
+    "asset_increment": "0.01000000",
+    "label": "SXP/BIDR"
+  },
+  {
+    "id": "LINKBKRW",
+    "asset": "LINK",
+    "currency": "BKRW",
+    "min_size": "0.10000000",
+    "max_size": "90000.00000000",
+    "min_total": "1000.00000000",
+    "increment": "0.01000000",
+    "asset_increment": "0.10000000",
+    "label": "LINK/BKRW"
   }
 ]

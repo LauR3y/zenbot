@@ -24,6 +24,30 @@
     "label": "Akropolis/Tether USD"
   },
   {
+    "asset": "AMP",
+    "currency": "BTC",
+    "min_total": "0.0001",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "Amp/Bitcoin"
+  },
+  {
+    "asset": "AMP",
+    "currency": "TRX",
+    "min_total": "0.0001",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "Amp/Tron"
+  },
+  {
+    "asset": "AMP",
+    "currency": "USDT",
+    "min_total": "1",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "Amp/Tether USD"
+  },
+  {
     "asset": "ANK",
     "currency": "USDT",
     "min_total": "1",
@@ -488,6 +512,14 @@
     "label": "Civic/Bitcoin"
   },
   {
+    "asset": "CVP",
+    "currency": "USDT",
+    "min_total": "1",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "PowerPool Concentrated Vot Power/Tether USD"
+  },
+  {
     "asset": "DAI",
     "currency": "USDT",
     "min_total": "1",
@@ -558,6 +590,22 @@
     "max_size": null,
     "increment": "0.00000001",
     "label": "DIA/Tether USD"
+  },
+  {
+    "asset": "DICE",
+    "currency": "TRX",
+    "min_total": "0.0001",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "TRONbetDice/Tron"
+  },
+  {
+    "asset": "DICE",
+    "currency": "USDT",
+    "min_total": "1",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "TRONbetDice/Tether USD"
   },
   {
     "asset": "DMG",
@@ -848,30 +896,6 @@
     "label": "Unification/Tether USD"
   },
   {
-    "asset": "FXC",
-    "currency": "BTC",
-    "min_total": "0.0001",
-    "max_size": null,
-    "increment": "0.00000001",
-    "label": "Flexacoin/Bitcoin"
-  },
-  {
-    "asset": "FXC",
-    "currency": "TRX",
-    "min_total": "0.0001",
-    "max_size": null,
-    "increment": "0.00000001",
-    "label": "Flexacoin/Tron"
-  },
-  {
-    "asset": "FXC",
-    "currency": "USDT",
-    "min_total": "1",
-    "max_size": null,
-    "increment": "0.00000001",
-    "label": "Flexacoin/Tether USD"
-  },
-  {
     "asset": "GAS",
     "currency": "BTC",
     "min_total": "0.0001",
@@ -886,6 +910,14 @@
     "max_size": null,
     "increment": "0.00000001",
     "label": "GEEQ/Tether USD"
+  },
+  {
+    "asset": "GHST",
+    "currency": "USDT",
+    "min_total": "1",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "Aavegotchi/Tether USD"
   },
   {
     "asset": "GNT",
@@ -1184,6 +1216,22 @@
     "label": "Measurable Data Token/Tether USD"
   },
   {
+    "asset": "MEME",
+    "currency": "USDT",
+    "min_total": "1",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "Meme/Tether USD"
+  },
+  {
+    "asset": "MEXP",
+    "currency": "USDT",
+    "min_total": "1",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "MOJI Experience Points/Tether USD"
+  },
+  {
     "asset": "MKR",
     "currency": "BTC",
     "min_total": "0.0001",
@@ -1352,6 +1400,14 @@
     "label": "Qtum/Tether USD"
   },
   {
+    "asset": "RARI",
+    "currency": "USDT",
+    "min_total": "1",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "Rarible/Tether USD"
+  },
+  {
     "asset": "REN",
     "currency": "BTC",
     "min_total": "0.0001",
@@ -1368,7 +1424,7 @@
     "label": "Ren/Tether USD"
   },
   {
-    "asset": "REP",
+    "asset": "REPV2",
     "currency": "BTC",
     "min_total": "0.0001",
     "max_size": null,
@@ -1376,7 +1432,7 @@
     "label": "Augur/Bitcoin"
   },
   {
-    "asset": "REP",
+    "asset": "REPV2",
     "currency": "USDT",
     "min_total": "1",
     "max_size": null,
@@ -1400,12 +1456,20 @@
     "label": "Reserve Rights Token/Tether USD"
   },
   {
-    "asset": "SAL",
+    "asset": "SAND",
+    "currency": "BTC",
+    "min_total": "0.0001",
+    "max_size": null,
+    "increment": "0.00000001",
+    "label": "The Sandbox/Bitcoin"
+  },
+  {
+    "asset": "SAND",
     "currency": "USDT",
     "min_total": "1",
     "max_size": null,
     "increment": "0.00000001",
-    "label": "Salmon/Tether USD"
+    "label": "The Sandbox/Tether USD"
   },
   {
     "asset": "SBREE",
