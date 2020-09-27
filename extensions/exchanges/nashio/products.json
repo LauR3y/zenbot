@@ -28,6 +28,13 @@
     "label": "USDC/BAT"
   },
   {
+    "asset": "GUNTHY",
+    "currency": "BTC",
+    "min_size": "10.0000000000",
+    "increment": "0.01",
+    "label": "GUNTHY/BTC"
+  },
+  {
     "asset": "GAS",
     "currency": "ETH",
     "min_size": "1.0000000",
@@ -91,6 +98,13 @@
     "label": "USDC/USDT"
   },
   {
+    "asset": "USDC",
+    "currency": "NNN",
+    "min_size": "5.0000",
+    "increment": "0.001",
+    "label": "USDC/NNN"
+  },
+  {
     "asset": "NEO",
     "currency": "GUARD",
     "min_size": "0.500000",
@@ -98,11 +112,25 @@
     "label": "NEO/GUARD"
   },
   {
+    "asset": "USDC",
+    "currency": "GUNTHY",
+    "min_size": "5.000000",
+    "increment": "0.0001",
+    "label": "USDC/GUNTHY"
+  },
+  {
     "asset": "GAS",
     "currency": "NEO",
     "min_size": "1.00000",
     "increment": "0.01",
     "label": "GAS/NEO"
+  },
+  {
+    "asset": "BTC",
+    "currency": "TRAC",
+    "min_size": "0.0010000000",
+    "increment": "0.00000001",
+    "label": "BTC/TRAC"
   },
   {
     "asset": "LINK",
@@ -147,6 +175,20 @@
     "label": "ETH/NEO"
   },
   {
+    "asset": "TRAC",
+    "currency": "USDC",
+    "min_size": "75.0000000",
+    "increment": "0.01",
+    "label": "TRAC/USDC"
+  },
+  {
+    "asset": "TRAC",
+    "currency": "BTC",
+    "min_size": "75.0000000000",
+    "increment": "0.01",
+    "label": "TRAC/BTC"
+  },
+  {
     "asset": "ETH",
     "currency": "USDC",
     "min_size": "0.002000",
@@ -166,6 +208,13 @@
     "min_size": "0.50000",
     "increment": "0.001",
     "label": "NEO/USDC"
+  },
+  {
+    "asset": "USDC",
+    "currency": "TRAC",
+    "min_size": "5.0000000",
+    "increment": "0.00001",
+    "label": "USDC/TRAC"
   },
   {
     "asset": "USDC",
@@ -210,6 +259,13 @@
     "label": "USDC/LINK"
   },
   {
+    "asset": "NNN",
+    "currency": "USDC",
+    "min_size": "10.0000",
+    "increment": "0.1",
+    "label": "NNN/USDC"
+  },
+  {
     "asset": "USDC",
     "currency": "NEO",
     "min_size": "5.00000",
@@ -245,6 +301,13 @@
     "label": "NEO/ZRX"
   },
   {
+    "asset": "BTC",
+    "currency": "GUNTHY",
+    "min_size": "0.0010000000",
+    "increment": "0.00000001",
+    "label": "BTC/GUNTHY"
+  },
+  {
     "asset": "NEO",
     "currency": "ETH",
     "min_size": "0.50000000",
@@ -264,6 +327,13 @@
     "min_size": "5.000000",
     "increment": "0.0001",
     "label": "USDC/GUARD"
+  },
+  {
+    "asset": "GUNTHY",
+    "currency": "USDC",
+    "min_size": "10.000000",
+    "increment": "0.01",
+    "label": "GUNTHY/USDC"
   },
   {
     "asset": "QNT",
